@@ -13,10 +13,7 @@ PDF에서 텍스트를 추출하는 도구임. Gemini API를 사용하여 PDF �
 
 ```bash
 # uv 사용 시
-uv pip install .
-
-# 또는 직접 실행
-uv run simple_pdf_parser.py
+uv sync
 ```
 
 ## 사용법
